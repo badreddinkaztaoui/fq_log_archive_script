@@ -43,4 +43,4 @@ chmod +x log-archive.sh
 
 ## Project Page
 
-For more informations about this project visite [roadmap.sh]([https://roadmap.sh/projects/log-archive-tool])
+For more informations about this project visite [Log Archive Tool Project](https://roadmap.sh/projects/log-archive-tool)
