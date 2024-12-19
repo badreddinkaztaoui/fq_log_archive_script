@@ -40,3 +40,7 @@ chmod +x log-archive.sh
 - Ensure the script has executable permissions. Use chmod +x log_archiver.sh to grant execute permissions.
 
 - Avoid running the script on directories with frequent writes to prevent conflicts during file operations.
+
+## Project Page
+
+For more informations about this project visite [roadmap.sh/log-archive-tool]([https://roadmap.sh/projects/log-archive-tool])
